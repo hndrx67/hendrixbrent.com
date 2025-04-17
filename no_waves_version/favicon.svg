@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <circle cx="50" cy="50" r="48" fill="#0d1117" stroke="#58a6ff" stroke-width="2"/>
+  <text x="50" y="68" font-family="monospace" font-size="60" font-weight="bold" text-anchor="middle" fill="#58a6ff">H</text>
+  <path d="M14,86 C20,70 40,78 50,66 C60,78 80,70 86,86" fill="none" stroke="#238636" stroke-width="3"/>
+</svg>
